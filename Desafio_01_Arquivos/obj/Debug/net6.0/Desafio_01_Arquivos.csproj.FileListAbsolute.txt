@@ -1,0 +1,15 @@
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\bin\Debug\net6.0\Desafio_01_Arquivos.exe
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\bin\Debug\net6.0\Desafio_01_Arquivos.deps.json
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\bin\Debug\net6.0\Desafio_01_Arquivos.runtimeconfig.json
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\bin\Debug\net6.0\Desafio_01_Arquivos.dll
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\bin\Debug\net6.0\Desafio_01_Arquivos.pdb
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.csproj.AssemblyReference.cache
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.AssemblyInfoInputs.cache
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.AssemblyInfo.cs
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.dll
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\refint\Desafio_01_Arquivos.dll
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.pdb
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\Desafio_01_Arquivos.genruntimeconfig.cache
+C:\Users\Matheus\Downloads\Academia_.NET_da_Atos_2022-09-21_Desafios\Desafio_01_Arquivos\obj\Debug\net6.0\ref\Desafio_01_Arquivos.dll
